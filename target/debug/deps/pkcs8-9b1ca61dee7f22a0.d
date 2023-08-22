@@ -1,0 +1,12 @@
+/Users/test/IdeaProjects/soroban_project/target/debug/deps/pkcs8-9b1ca61dee7f22a0.rmeta: /Users/test/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pkcs8-0.10.2/src/lib.rs /Users/test/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pkcs8-0.10.2/src/error.rs /Users/test/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pkcs8-0.10.2/src/private_key_info.rs /Users/test/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pkcs8-0.10.2/src/traits.rs /Users/test/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pkcs8-0.10.2/src/version.rs /Users/test/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pkcs8-0.10.2/src/../README.md
+
+/Users/test/IdeaProjects/soroban_project/target/debug/deps/libpkcs8-9b1ca61dee7f22a0.rlib: /Users/test/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pkcs8-0.10.2/src/lib.rs /Users/test/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pkcs8-0.10.2/src/error.rs /Users/test/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pkcs8-0.10.2/src/private_key_info.rs /Users/test/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pkcs8-0.10.2/src/traits.rs /Users/test/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pkcs8-0.10.2/src/version.rs /Users/test/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pkcs8-0.10.2/src/../README.md
+
+/Users/test/IdeaProjects/soroban_project/target/debug/deps/pkcs8-9b1ca61dee7f22a0.d: /Users/test/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pkcs8-0.10.2/src/lib.rs /Users/test/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pkcs8-0.10.2/src/error.rs /Users/test/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pkcs8-0.10.2/src/private_key_info.rs /Users/test/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pkcs8-0.10.2/src/traits.rs /Users/test/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pkcs8-0.10.2/src/version.rs /Users/test/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pkcs8-0.10.2/src/../README.md
+
+/Users/test/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pkcs8-0.10.2/src/lib.rs:
+/Users/test/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pkcs8-0.10.2/src/error.rs:
+/Users/test/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pkcs8-0.10.2/src/private_key_info.rs:
+/Users/test/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pkcs8-0.10.2/src/traits.rs:
+/Users/test/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pkcs8-0.10.2/src/version.rs:
+/Users/test/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pkcs8-0.10.2/src/../README.md:

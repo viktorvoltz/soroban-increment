@@ -1,0 +1,12 @@
+/Users/test/IdeaProjects/soroban_project/target/debug/deps/spki-deb33ca775843bac.rmeta: /Users/test/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.2/src/lib.rs /Users/test/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.2/src/algorithm.rs /Users/test/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.2/src/error.rs /Users/test/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.2/src/spki.rs /Users/test/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.2/src/traits.rs /Users/test/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.2/src/../README.md
+
+/Users/test/IdeaProjects/soroban_project/target/debug/deps/libspki-deb33ca775843bac.rlib: /Users/test/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.2/src/lib.rs /Users/test/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.2/src/algorithm.rs /Users/test/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.2/src/error.rs /Users/test/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.2/src/spki.rs /Users/test/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.2/src/traits.rs /Users/test/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.2/src/../README.md
+
+/Users/test/IdeaProjects/soroban_project/target/debug/deps/spki-deb33ca775843bac.d: /Users/test/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.2/src/lib.rs /Users/test/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.2/src/algorithm.rs /Users/test/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.2/src/error.rs /Users/test/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.2/src/spki.rs /Users/test/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.2/src/traits.rs /Users/test/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.2/src/../README.md
+
+/Users/test/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.2/src/lib.rs:
+/Users/test/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.2/src/algorithm.rs:
+/Users/test/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.2/src/error.rs:
+/Users/test/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.2/src/spki.rs:
+/Users/test/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.2/src/traits.rs:
+/Users/test/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.2/src/../README.md:
